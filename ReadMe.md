@@ -6,5 +6,6 @@ We could have a camera located at intersections or specific trails to keep track
 + Cars
 + Bikes
 + Pedestrians
++ Wheelchair
 + Trucks
 
